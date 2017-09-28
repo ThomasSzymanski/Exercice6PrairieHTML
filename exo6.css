@@ -1,94 +1,48 @@
-
-#Haut {
-  height: 35px;
+div{
+  float:left;
 }
-
-#Milieu {
-  height: 100px;
-}
-
-#Bas {
-  height: 150px;
-}
-
-.Vert {
+.Vert{
   background-color: #2ecc71;
   height: 35px;
   width: 80%;
-  float: left;
 }
-
-.BleuCiel {
+.BleuCiel{
   background-color: #2980b9;
   height: 35px;
   width: 20%;
-  float: left;
-
-
 }
-
 .Rouge{
-
   background-color: #e74c3c;
   height: 100px;
   width: 31%;
-  float: left;
-
 }
-
 .Beige{
-
   background-color: #e67e22;
   height: 50px;
   width: 34.5%;
-  float: left;
-
-
 }
-
 .Gris{
-
   background-color: #95a5a6;
   height: 50px;
   width: 34.5%;
-  float: left;
-
 }
-
 .Jaune{
-
   background-color: #f39c12;
   height: 50px;
   width: 23%;
-  float: left;
-
-
 }
-
 .BleuTurquoise{
-
   background-color: #16a085;
   height: 50px;
   width: 23%;
-  float: left;
-
 }
-
 .Orange{
-
   background-color: #d35400;
   height: 50px;
   width: 23%;
-  float: left;
-
 }
-
-
 .Bleu{
-
   background-color: #2c3e50;
   height: 150px;
   width: 100%;
-  float: left;
-
 }
